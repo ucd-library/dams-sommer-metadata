@@ -1,0 +1,44 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/D715_04_07.pdf"
+  },
+  "schema:identifier": [
+    "ark:/87293/d38p5vm3k",
+    "D-715, Box:4, Folder:7"
+  ],
+  "schema:name": "Psychology Today excerpt introducing the game",
+  "schema:description": "Three-page spread from Psychology Today providing the rules and strategic pointers for the \"Blacks & Whites\" game, released as a centerfold tear-out in the same issue.",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/D715_04_07_a.tif"
+  },
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1970"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/835096"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1122778"
+    }
+  ]
+}

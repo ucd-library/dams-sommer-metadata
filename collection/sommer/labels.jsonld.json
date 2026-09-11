@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707",
+    "http://schema.org/name": "UC Davis Library, Archives and Special Collections"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1122778",
+    "http://schema.org/name": "Social problems"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1423689",
+    "http://schema.org/name": "Photographs"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/2003288",
+    "http://schema.org/name": "Correspondence"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/5416",
+    "http://schema.org/name": "Crumb, R."
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/831489",
+    "http://schema.org/name": "Bicycles"
+    },
+  {
+    "@id": "http://id.worldcat.org/fast/835096",
+    "http://schema.org/name": "Board games"
+  }
+]

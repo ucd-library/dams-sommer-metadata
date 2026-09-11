@@ -1,0 +1,41 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3w08ws8g",
+    "D-715, Box:2, Folder:4"
+  ],
+  "schema:name": "Unitrans bus with many bicyclists in bicycle lane",
+  "schema:description": "(Brasilia?) Lecture on bike paths,",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/D-715_002_004_01_0005_trsmv.tif"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1423689"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/831489"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabels": {
+    "@id": "@base:/labels"
+  },
+  "schema:name": "Sommer (Robert) Papers",
+  "schema:identifier": [
+    "D-715",
+    "ark:/87293/d3bg2hm88"
+  ],
+  "schema:description": "Selected materials from the Robert Sommer Papers document the development and use of the board game \"Blacks & Whites,\" which Sommer developed with Judy Tart. Sommer, a professor of psychology at UC Davis, conceived the game in response to Monopoly, seeking to reflect unequal starting resources and opportunities in society. The digital collection includes game concepts and rules, correspondence, draft boards, proposed artwork, workshop photographs, and opportunity cards. The digital collection also includes photographic slides of bicycle paths, parking facilities, signs, and road graphics. More information is available in the collection finding aid: https://oac.cdlib.org/findaid/ark:/13030/c8vm4m64/",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/835096"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1122778"
+    }
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:publisher": [
+    "UC Davis Library, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:datePublished": {
+   "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@value": "2026-09-11"
+  },
+  "schema:sdPublisher": [
+    "UC Davis Library, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2026"
+  },
+  "schema:image": {
+    "@id": "info:fedora/item/ark:/87293/d3vd6pg05/media/images/d715_b4_13.tif"
+  }
+}

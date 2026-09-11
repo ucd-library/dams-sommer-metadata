@@ -1,0 +1,48 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3g737f21",
+    "D-715"
+  ],
+  "schema:name": "Opportunity cards from Blacks & Whites board game",
+  "schema:description": "Drawn when a player lands on the opportunity space, either drawing from the \"Black\" deck or the \"White\" deck.",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d715_Blacks_and_Whites_game_cards.jpg"
+  },
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1970"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/835096"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1122778"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1423689"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+*
+!.gitignore
+!*/
+!*.jsonld.json
+!*.md
+!make_metadata_jsonld.py
+!make_ocr_pdfs.py
+!mint_arks.py
+!validate_collection.py
+!collection_config.json
+!media_manifest.json
+!metadata_rows.py
+!prepare_slide_images.py
+!slide_additions_report.json
